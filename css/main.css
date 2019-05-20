@@ -1,7 +1,15 @@
-ul{
-    font-size: 20pt;
+img{
+    border: 10px groove orangered;
+    border-radius: 100%;
 }
 
-ol{
-    font-size: 15pt;
+
+div{
+    width:100px;
+    height:100px;
+    border: 10px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
 }
